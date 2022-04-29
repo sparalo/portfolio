@@ -1,0 +1,42 @@
+body{
+	background-color: gray;
+}
+
+.tete{
+	text-align: center;
+}
+.choix{
+	background-color: lightgrey;
+	border: solid black 3px;
+	width: 70%;
+	margin: 0px 15% 0px;
+}
+.choix h2 {
+	text-align: center;
+}
+
+.hyr{
+	border: solid black 1px;
+	width: 80%;
+	margin: 0px 10% 0px;
+	background-image: url("link.avif");
+	background-size: 100% 370%;
+	color: white;
+}
+
+.cli{
+	border: solid black 1px;
+	width: 80%;
+	margin: 2% 10% 2%;
+	background-image: url("uwu.webp");
+	background-size: 100% 500%;
+	color: white;
+}
+.gob{
+	border: solid black 1px;
+	width: 80%;
+	margin: 0px 10% 2%;
+	background-image: url("mine.PNG");
+	background-size: 100% 210%;
+	color: white;
+}
