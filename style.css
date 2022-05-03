@@ -24,12 +24,26 @@ body{
 	color: white;
 }
 
+.hyr a:visited{
+	color: white;
+}
+.hyr a:link{
+	color: white;
+}
+
 .cli{
 	border: solid black 1px;
 	width: 80%;
 	margin: 2% 10% 2%;
 	background-image: url("uwu.webp");
-	background-size: 100% 500%;
+	background-size: cover;
+	color: white;
+}
+
+.cli a:visited{
+	color: white;
+}
+.cli a:link{
 	color: white;
 }
 .gob{
@@ -37,6 +51,35 @@ body{
 	width: 80%;
 	margin: 0px 10% 2%;
 	background-image: url("mine.PNG");
-	background-size: 100% 210%;
+	background-size: cover;
 	color: white;
 }
+
+.gob a:visited{
+	color: white;
+}
+.gob a:link{
+	color: white;
+}
+
+.pres{
+	border: solid black 3px;
+	width: 80%;
+	margin: 0px 10% 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
