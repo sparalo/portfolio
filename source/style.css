@@ -2,7 +2,7 @@ body{
 	background-color: gray;
 }
 .hyruleBody{
-	background-image: url("photo/hyruleback.webp");
+	background-image: url("../photo/hyruleback.webp");
 	background-size: cover;
 }
 
@@ -33,7 +33,7 @@ body{
 	border: solid black 1px;
 	width: 80%;
 	margin: 0px 10% 0px;
-	background-image: url("photo/link.avif");
+	background-image: url("../photo/link.avif");
 	background-size: 100% 370%;
 	color: white;
 }
@@ -49,7 +49,7 @@ body{
 	border: solid black 1px;
 	width: 80%;
 	margin: 2% 10% 2%;
-	background-image: url("photo/uwu.webp");
+	background-image: url("../photo/uwu.webp");
 	background-size: cover;
 	color: white;
 }
@@ -64,7 +64,7 @@ body{
 	border: solid black 1px;
 	width: 80%;
 	margin: 0px 10% 2%;
-	background-image: url("photo/mine.PNG");
+	background-image: url("../photo/mine.PNG");
 	background-size: cover;
 	color: white;
 }
@@ -91,7 +91,7 @@ body{
 	margin: 3% 5% 10%;
 	text-align: center;
 	float: left;
-	background-image: url("photo/sword.jpg");
+	background-image: url("../photo/sword.jpg");
 	background-size: cover;
 	font-family: fantasy;
 	font-size: large;
@@ -129,7 +129,7 @@ body{
 }
 
 .cliBody{
-	background-image: url("photo/fonduwu.jpg");
+	background-image: url("../photo/fonduwu.jpg");
 	background-size: cover;
 }
 
