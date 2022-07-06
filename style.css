@@ -12,8 +12,9 @@ body{
 .choix{
 	background-color: lightgrey;
 	border: solid black 3px;
+	border-radius: 10px;
 	width: 70%;
-	margin: 0px 15% 0px;
+	margin: 0px 15% 50px;
 }
 .choix h2 {
 	text-align: center;
@@ -22,6 +23,7 @@ body{
 .moi{
 	background-color: lightgrey;
 	border: solid black 3px;
+	border-radius: 10px;
 	width: 70%;
 	margin: 5px 15% 0px;
 	text-align: center;
