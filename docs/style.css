@@ -167,6 +167,25 @@ body{
 	height: 25%;
 }
 
+.run{
+	border: solid black 1px;
+	border-radius: 5px;
+	width: 80%;
+	height: 30px;
+	margin: 0px 10% 0px;
+	background-image: url("photo/fondrunner.webp");
+	background-size: 100% 370%;
+	color: white;
+}
+
+.run a:visited{
+	color: white;
+}
+
+.run a:link {
+	color: white;
+}
+
 
 
 
