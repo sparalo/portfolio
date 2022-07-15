@@ -38,7 +38,9 @@ body{
 
 .hyr{
 	border: solid black 1px;
+	border-radius: 5px;
 	width: 80%;
+	height: 30px;
 	margin: 0px 10% 0px;
 	background-image: url("photo/link.avif");
 	background-size: 100% 370%;
@@ -54,7 +56,9 @@ body{
 
 .cli{
 	border: solid black 1px;
+	border-radius: 5px;
 	width: 80%;
+	height: 30px;
 	margin: 2% 10% 2%;
 	background-image: url("photo/uwu.webp");
 	background-size: cover;
@@ -69,7 +73,9 @@ body{
 }
 .gob{
 	border: solid black 1px;
+	border-radius: 5px;
 	width: 80%;
+	height: 30px;
 	margin: 0px 10% 2%;
 	background-image: url("photo/mine.PNG");
 	background-size: cover;
@@ -154,6 +160,11 @@ body{
 	font-size: large;
 	font-family: sans-serif;
 	background-color: whitesmoke;
+}
+
+.imagob img {
+	width: 25%;
+	height: 25%;
 }
 
 
