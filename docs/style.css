@@ -21,6 +21,7 @@ body{
 	border: solid black 3px;
 	border-radius: 10px;
 	width: 70%;
+	height: 400px;
 	margin: 0px 15% 50px;
 }
 .choix h2 {
