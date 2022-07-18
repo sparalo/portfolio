@@ -21,7 +21,7 @@ body{
 	border: solid black 3px;
 	border-radius: 10px;
 	width: 70%;
-	height: 300px;
+	height: 350px;
 	margin: 0px 15% 50px;
 }
 .choix h2 {
@@ -173,7 +173,7 @@ body{
 	border-radius: 5px;
 	width: 80%;
 	height: 30px;
-	margin: 0px 10% 0px;
+	margin: 0px 10% 2%;
 	background-image: url("photo/fondrunner.webp");
 	background-size: 100% 370%;
 	color: white;
@@ -208,3 +208,41 @@ body{
 	height: 30%;
 }
 
+.pok {
+	border: solid black 1px;
+	border-radius: 5px;
+	width: 80%;
+	height: 30px;
+	margin: 0px 10% 2%;
+	background-image: url("photo/pokefond.jpg");
+	background-size: cover;
+	color: white;
+}
+
+.pok a:visited{
+	color: white;
+}
+
+.pok a:link {
+	color: white;
+}
+
+.pokeBody {
+	background-image: url("photo/pokeback.jpg");
+	background-size: cover;
+}
+
+.textpok {
+	border: solid black 2px;
+	width: 40%;
+	margin: 4% 7% 10%;
+	text-align: center;
+	float: left;
+	background-color: white;
+}
+
+
+.imapok img {
+	width: 14%;
+	height: 14%;
+}
