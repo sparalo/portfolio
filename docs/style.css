@@ -160,7 +160,9 @@ body{
 	float: left;
 	font-size: large;
 	font-family: sans-serif;
-	background-color: whitesmoke;
+	background-image: url("photo/gobtextimg.jpg");
+	background-size: cover;
+	color: white;
 }
 
 .imagob img {
