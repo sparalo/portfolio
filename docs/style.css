@@ -10,14 +10,16 @@ body{
 	text-align: center;
 	border: solid grey 1px;
     background-color: #E9E9E9;
-	border-radius: 100px;
-	width: 25%;
-	margin: 0px 38% 15px;
-    color: #426C96
+	border-radius: 60px;
+	width: 40%;
+	margin: 0px 30% 15px;
+    color: #426C96;
+    font-size: 80%;
 }
 
 .matete{
-    margin: 0px 43% 20px;
+    margin: 0px 40% 20px;
+    width: 20%;
     border-radius: 50px;
 }
 
@@ -49,6 +51,11 @@ body{
 .moi p {
     font-family: sans-serif;
     font-size: 115%;
+}
+
+.icone{
+    width: 20px;
+    height: 20px;
 }
 
 .link {
