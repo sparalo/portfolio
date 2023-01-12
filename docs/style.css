@@ -15,6 +15,7 @@ body{
 	margin: 0px 30% 15px;
     color: black;
     font-size: 80%;
+
 }
 
 .matete{
@@ -88,6 +89,7 @@ body{
 }
 .hyr a:link{
 	color: white;
+    font-size: large;
 }
 
 .cli{
@@ -106,6 +108,7 @@ body{
 }
 .cli a:link{
 	color: white;
+    font-size: large;
 }
 .gob{
 	border: solid black 1px;
@@ -123,6 +126,7 @@ body{
 }
 .gob a:link{
 	color: white;
+    font-size: large;
 }
 
 .pres{
@@ -221,6 +225,7 @@ body{
 
 .run a:link {
 	color: white;
+    font-size: large;
 }
 
 .RunnerBody {
@@ -263,6 +268,7 @@ body{
 
 .pok a:link {
 	color: white;
+    font-size: large;
 }
 
 .pokeBody {
@@ -304,6 +310,7 @@ body{
 
 .min a:link {
 	color: white;
+    font-size: large;
 }
 
 .miniBody {
